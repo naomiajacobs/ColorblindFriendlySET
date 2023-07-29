@@ -10,4 +10,4 @@ What they look like in real life:
 ![IMG_6933](https://user-images.githubusercontent.com/11564650/157998964-6734a692-d371-4b24-8220-6decce015aba.jpg)
 ![IMG_6934](https://user-images.githubusercontent.com/11564650/157998969-3326ec8a-4a49-4d92-a9ac-69fd041f4fe4.jpg)
 
-The only thing I'd change is that the purple came out darker than expected, so the outlined shapes can be hard to distinguish from the black. However, at least now everyone is equally confused!
+Updated in July 2023 with lighter purples so they print more distincly from the black in the outline shapes.

@@ -19,8 +19,8 @@ Blog post [here](https://naomiajacobs.com/Colorblind-Friendly-SET/).
 2. Download [the png of the card backs](back.png).
 3. Go to [MakePlayingCards](https://www.makeplayingcards.com) and start making a custom deck. You'll need to upload the PNGs of the fronts and back.
 4. Settings I used: 
-  2.2"x3.43" cards
-  100 cards (you'll have leftovers since you only need 81 for the deck)
-  Card stock: S33 Superior Smooth 
-  Card finishing: MPC game card finish
-  Packaging: Plain rigid box (Matte laminated (smooth finish))
+  - 2.2"x3.43" cards
+  - 100 cards (you'll have leftovers since you only need 81 for the deck)
+  - Card stock: S33 Superior Smooth 
+  - Card finishing: MPC game card finish
+  - Packaging: Plain rigid box (Matte laminated (smooth finish))

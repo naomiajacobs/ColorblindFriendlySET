@@ -15,8 +15,8 @@ Updated in July 2023 with lighter purples so they print more distinctly from the
 Blog post [here](https://naomiajacobs.com/Colorblind-Friendly-SET/).
 
 ### Detailed ordering instructions
-1. Download [this zip file with all of the card fronts](card_fronts/ColorblindFriendlySETFronts.zip).
-2. Download [the png of the card backs](back.png).
+1. Download this zip file with all of the fronts: <a href="card_fronts/ColorblindFriendlySETFronts.zip" download>Card Fronts zip</a>
+2. Download this png with the card back:  <a href="back.png" download>Back PNG</a>
 3. Go to [MakePlayingCards](https://www.makeplayingcards.com) and start making a custom deck. You'll need to upload the PNGs of the fronts and back.
 4. Settings I used: 
   - 2.2"x3.43" cards
